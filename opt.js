@@ -36,3 +36,59 @@ var k=5;
 var l=7;
 var m= j=k=l;
 console.log(m);
+
+
+// Program on Data types
+
+var n=3;
+var o="sai";
+console.log(typeof n);
+console.log(typeof o);
+
+// Program to compare valuae
+
+var p=4;
+var q=5
+
+if(p==a)
+{
+    console.log("they are equal");
+
+}
+else
+{
+    console.log("they are not equal ");
+
+}
+
+// Program for to check the values
+
+var r=3;
+var s="sai";
+
+if(r===s)
+{
+    console.log("they are equal");
+
+}
+else
+{
+    console.log("they are not equal ");
+
+}
+
+// Program for COresion
+
+var t=0;
+var u=false;
+
+if(t==u)
+{
+    console.log("they are equal");
+
+}
+else
+{
+    console.log("they are not equal ");
+
+}
