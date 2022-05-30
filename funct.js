@@ -12,8 +12,7 @@ var b="kiran";
      return fullname;
  }
 
- var name=name1(sai,kiran);
+ var con= name1(sai,kiran);
 
- console.log(full name);
+ console.log(con);
 
- 
