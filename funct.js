@@ -7,12 +7,12 @@ var b="kiran";
 
  // Program for 2 varaibales to concatinate through functions 
 
- function name1(firstname, last name) {
+ function name1(firstname, lastname) {
      var fullname=firstname+lastname
      return fullname;
  }
 
- var con= name1(sai,kiran);
+ var con= name1("sai","kiran");
 
  console.log(con);
 
